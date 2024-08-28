@@ -74,7 +74,6 @@
  */
 #include "CFG_Wifi_File.h"
 #include "nic_init_cmd_event.h"
-#include "fw_dl.h"
 #include "queue.h"
 #include "cmd_buf.h"
 /*******************************************************************************
