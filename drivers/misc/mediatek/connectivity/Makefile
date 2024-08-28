@@ -54,7 +54,7 @@ endif
     export BT_PLATFORM=connac1x
     export MTK_COMBO_CHIP=SOC2_1X1
     export CONNAC_VER=1_0
-    export WLAN_CHIP_ID=6853
+    export WLAN_CHIP_ID=6833
     export MTK_ANDROID_WMT=y
     export MTK_ANDROID_EMI=y
     export WIFI_IP_SET=1
@@ -69,7 +69,6 @@ endif
     obj-y += connfem/
     obj-y += common/
     obj-y += wlan/adaptor/
-    obj-y += wlan/core/gen4m/
     obj-y += fmradio/
     obj-y += gps/
     obj-y += bt/mt66xx/wmt/
