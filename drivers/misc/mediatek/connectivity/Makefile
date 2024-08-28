@@ -69,9 +69,10 @@ endif
     obj-y += connfem/
     obj-y += common/
     obj-y += wlan/adaptor/
-    obj-y += bt/mt66xx/wmt/
+    obj-y += wlan/core/gen4m/
     obj-y += fmradio/
     obj-y += gps/
+    obj-y += bt/mt66xx/wmt/
 
 # Otherwise we were called directly from the command line;
 # invoke the kernel build system.
