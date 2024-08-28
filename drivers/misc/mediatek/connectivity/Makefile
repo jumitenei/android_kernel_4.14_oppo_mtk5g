@@ -68,8 +68,7 @@ endif
 
     obj-y += connfem/
     obj-y += common/
-    obj-y += wlan/adaptor/
-    obj-y += wlan/core/gen4m/
+    obj-y += wlan/adaptor
     obj-y += bt/mt66xx/wmt/
     obj-y += fmradio/
     obj-y += gps/
